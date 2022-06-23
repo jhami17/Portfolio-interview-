@@ -10,7 +10,7 @@ Live Creative Coding Challenge Session
 Algorithms Exploration - Cubing Workflow
 Git N Going
 
-I will continue to use these programs in coding as a way to make my own basis for things in school. Listing my work or creating a whole site to list my creations. These all tested my limits in what I could and helped me realize my boundaries and when to push them. HTML & CSS were extremely useful to learn and use, along with P5.js to execute the code. 
+I will continue to use these programs in coding as a way to make my own basis for things in school. Listing my work or creating a whole site to list my creations. These all tested my limits in what I could do and helped me realize my boundaries and when to push them. HTML & CSS were extremely useful to learn and use, along with P5.js to execute the code. 
 
 Javascript, Intro to JS: Drawing & Animation and Advanced: Games and Visualizations were helpful to write code and make playable features. Along with the coding experiences I got alongside, it was fun to work on something useful or fun at the end. 
 
