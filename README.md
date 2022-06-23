@@ -1,14 +1,14 @@
 TOP 10 MODULES -
-Learn HTML + Learn CSS
-p5.js
-Learn Javascript
-Intro to JS: Drawing & Animation + Intro to HTML/CSS: Making Webpages
-Advanced JS: Games & Visualizations
-Hackathon
-Micro-Bit
-Live Creative Coding Challenge Session
-Algorithms Exploration - Cubing Workflow
-Git N Going
+Learn HTML + Learn CSS,
+p5.js,
+Learn Javascript,
+Intro to JS: Drawing & Animation + Intro to HTML/CSS: Making Webpages,
+Advanced JS: Games & Visualizations,
+Hackathon,
+Micro-Bit,
+Live Creative Coding Challenge Session,
+Algorithms Exploration - Cubing Workflow,
+Git N Going,
 
 I will continue to use these programs in coding as a way to make my own basis for things in school. Listing my work or creating a whole site to list my creations. These all tested my limits in what I could do and helped me realize my boundaries and when to push them. HTML & CSS were extremely useful to learn and use, along with P5.js to execute the code. 
 
